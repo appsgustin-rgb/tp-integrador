@@ -8,6 +8,7 @@
 
 ## 🎯 **Funcionalidades Principales**
 ### 🏗️ Gestión de Equipos
+
 #### ✅ Carga de jugadores en colas FIFO por equipo
 
 #### ✅ Modificación de datos de jugadores antes del guardado
@@ -17,6 +18,7 @@
 #### ✅ Visualización de equipos existentes
 
 ### 📊 **Análisis Estadístico**
+
 #### ✅ Reportes por equipo: valor total, edad promedio, goleador, asistidor
 
 #### ✅ Estadísticas generales: equipo de mayor valor, máximos goleadores/asistidores
