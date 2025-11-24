@@ -1,6 +1,6 @@
 # ⚽ Sistema Estadístico Aplicado a Equipos de Fútbol
 ![UNNE](https://img.shields.io/badge/UNNE-darkgreen)
-![ESTRUCTURAS DATOS](https://img.shields.io/badge/Estructuras-Datos-green.svg)
+![ESTRUCTURAS DATOS](https://img.shields.io/badge/Estructuras-Datos-darkgreen.svg)
 ![ALGORITMOS](https://img.shields.io/badge/Algoritmos-darkred.svg)
 
 ## 📋 Descripción del Proyecto
