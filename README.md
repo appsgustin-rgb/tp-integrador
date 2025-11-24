@@ -1,6 +1,6 @@
 # ⚽ Sistema Estadístico Aplicado a Equipos de Fútbol
 ![UNNE](https://img.shields.io/badge/UNNE-darkgreen)
-![ESTRUCTURAS DATOS](https://img.shields.io/badge/Estructuras-Datos-darkgreen.svg)
+![ESTRUCTURAS DATOS](https://img.shields.io/badge/Estructuras-Datos-green.svg)
 ![ALGORITMOS](https://img.shields.io/badge/Algoritmos-darkred.svg)
 
 ## 📋 Descripción del Proyecto
@@ -26,5 +26,5 @@
 #### - Algoritmo de corte de control para procesamiento eficiente
 
 ## 🛠️ Tecnologías Utilizadas
-### ![C Language](https://img.shields.io/badge/Lenguaje-C-blue) ![Colas FIFO](https://img.shields.io/badge/Colas-FIFO-yellow)
-### ![Archivos Binarios](https://img.shields.io/badge/Archivos-Binarios-purple) ![Corte Control](https://img.shields.io/badge/Corte-Control-green)
+### ![C Language](https://img.shields.io/badge/Lenguaje-C-darkblue) ![Colas FIFO](https://img.shields.io/badge/Colas-FIFO-darkyellow)
+### ![Archivos Binarios](https://img.shields.io/badge/Archivos-Binarios-darkpurple) ![Corte Control](https://img.shields.io/badge/Corte-Control-darkgreen)
