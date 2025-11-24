@@ -29,8 +29,7 @@
 ### ![C Language](https://img.shields.io/badge/Lenguaje-C-blue) ![Colas FIFO](https://img.shields.io/badge/Colas-FIFO-yellow)
 ### ![Archivos Binarios](https://img.shields.io/badge/Archivos-Binarios-purple) ![Corte Control](https://img.shields.io/badge/Corte-Control-green)
 
-## 🚀 Compilación y Ejecución
-#### - Prerrequisitos
+## 🚀 Compilación y Ejecución - Prerrequisitos
 #### - Compilador GCC
 
 #### - Sistema operativo Windows/Linux/macOS
