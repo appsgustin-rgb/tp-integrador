@@ -53,3 +53,10 @@
 
 ### Corte de Control Estadistico
 <img width="894" height="346" alt="Opcion3-Corte-de-Control" src="https://github.com/user-attachments/assets/4f3d2826-b3a1-4ed9-b217-038ada9db5d6" />
+
+## 👥 Equipo de Desarrollo
+#### Romero Agustín Ezequiel,	Gestión de colas y algoritmos
+#### Silguero Luis Ernesto	Manejo de archivos y persistencia
+
+###Algoritmos y Estructuras de Datos II
+###Universidad Nacional del Nordeste (UNNE)
