@@ -24,4 +24,4 @@
 #### ![C Language](https://img.shields.io/badge/Lenguaje-C-blue)
 #### ![Colas Dinámicas](https://img.shields.io/badge/Colas-Dinámicas-orange)
 #### ![Archivos Binarios](https://img.shields.io/badge/Archivos-Binarios-purple)
-#### ![Corte Control]
+#### ![Corte Control](https://img.shields.io/badge/Corte-Control-green)
