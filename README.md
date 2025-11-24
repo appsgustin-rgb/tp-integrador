@@ -8,21 +8,21 @@
 ## 🎯 **Funcionalidades Principales**
 ### 🏗️ Gestión de Equipos
 
-#### ✅ Carga de jugadores en colas FIFO por equipo
+#### - Carga de jugadores en colas FIFO por equipo
 
-#### ✅ Modificación de datos de jugadores antes del guardado
+#### - Modificación de datos de jugadores antes del guardado
 
-#### ✅ Almacenamiento persistente en archivos binarios
+#### - Almacenamiento persistente en archivos binarios
 
-#### ✅ Visualización de equipos existentes
+#### - Visualización de equipos existentes
 
 ### 📊 **Análisis Estadístico**
 
-#### ✅ Reportes por equipo: valor total, edad promedio, goleador, asistidor
+#### - Reportes por equipo: valor total, edad promedio, goleador, asistidor
 
-#### ✅ Estadísticas generales: equipo de mayor valor, máximos goleadores/asistidores
+#### - Estadísticas generales: equipo de mayor valor, máximos goleadores/asistidores
 
-#### ✅ Algoritmo de corte de control para procesamiento eficiente
+#### - Algoritmo de corte de control para procesamiento eficiente
 
 ## 🛠️ Tecnologías Utilizadas
 ### ![C Language](https://img.shields.io/badge/Lenguaje-C-blue) ![Colas FIFO](https://img.shields.io/badge/Colas-FIFO-yellow)
