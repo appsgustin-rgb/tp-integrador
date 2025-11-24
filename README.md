@@ -19,3 +19,9 @@
 #### ✅ Estadísticas generales: equipo de mayor valor, máximos goleadores/asistidores
 
 #### ✅ Algoritmo de corte de control para procesamiento eficiente
+
+## 🛠️ Tecnologías Utilizadas
+#### ![C Language](https://img.shields.io/badge/Lenguaje-C-blue)
+#### ![Colas Dinámicas](https://img.shields.io/badge/Colas-Dinámicas-orange)
+#### ![Archivos Binarios](https://img.shields.io/badge/Archivos-Binarios-purple)
+#### ![Corte Control]
