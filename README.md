@@ -1,5 +1,5 @@
 # ⚽ Sistema Estadístico Aplicado a Equipos de Fútbol
-#![UNNE](https://img.shields.io/badge/UNNE-blue)
+![UNNE](https://img.shields.io/badge/UNNE-darkgreen)
 
 
 ## 📋 Descripción del Proyecto
