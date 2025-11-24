@@ -3,7 +3,7 @@
 ## 📋 Descripción del Proyecto
 #### Sistema desarrollado en C para la gestión y análisis estadístico de equipos de fútbol. Permite cargar jugadores, modificar datos, almacenar información de forma persistente y generar reportes estadísticos mediante corte de control.
 
-## 🎯 Funcionalidades Principales
+## 🎯 ** Funcionalidades Principales **
 ### 🏗️ Gestión de Equipos
 #### ✅ Carga de jugadores en colas FIFO por equipo
 
@@ -13,7 +13,7 @@
 
 #### ✅ Visualización de equipos existentes
 
-### 📊 Análisis Estadístico
+### 📊 ** Análisis Estadístico **
 #### ✅ Reportes por equipo: valor total, edad promedio, goleador, asistidor
 
 #### ✅ Estadísticas generales: equipo de mayor valor, máximos goleadores/asistidores
